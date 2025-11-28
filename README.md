@@ -1,3 +1,3 @@
 Made in C#
 No use of AI
-Simple Binairy converter (Console Aplication)
+IT IS A Simple Binairy converter (Console Aplication)
